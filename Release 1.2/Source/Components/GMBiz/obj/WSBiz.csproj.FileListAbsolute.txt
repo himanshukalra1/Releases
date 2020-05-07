@@ -1,0 +1,14 @@
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSBiz.dll
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSBiz.pdb
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSConstants.dll
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSDB.dll
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSDBDetail.dll
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSDBMap.dll
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSSecurityManager.dll
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSUtilities.dll
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSDB.pdb
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSDBMap.pdb
+F:\Projects\Codebase\Source\Components\WSBiz\bin\WSDBDetail.pdb
+F:\Projects\Codebase\Source\Components\WSBiz\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Codebase\Source\Components\WSBiz\obj\Debug\WSBiz.dll
+F:\Projects\Codebase\Source\Components\WSBiz\obj\Debug\WSBiz.pdb

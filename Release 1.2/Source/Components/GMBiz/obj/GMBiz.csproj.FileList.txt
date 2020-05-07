@@ -1,0 +1,14 @@
+bin\GMBiz.dll
+bin\GMBiz.pdb
+bin\GMConstants.dll
+bin\GMDB.dll
+bin\GMDBDetail.dll
+bin\GMDBMap.dll
+bin\GMSecurityManager.dll
+bin\GMUtilities.dll
+bin\GMDBDetail.pdb
+bin\GMDB.pdb
+bin\GMDBMap.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMBiz.dll
+obj\Debug\GMBiz.pdb

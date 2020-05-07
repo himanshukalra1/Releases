@@ -1,0 +1,20 @@
+Log Entry : 8:27:23 PM
+Details : 
+Exception has been thrown by the target of an invocation.
+--------------------------------------------------------------------------------
+Log Entry : 8:27:23 PM
+Details : 
+The best overloaded method match for 'System.Web.UI.WebControls.ListItemCollection.FindByValue(string)' has some invalid arguments
+--------------------------------------------------------------------------------
+Log Entry : 8:27:23 PM
+Details : 
+The best overloaded method match for 'System.Web.UI.WebControls.ListItemCollection.FindByValue(string)' has some invalid arguments
+--------------------------------------------------------------------------------
+Log Entry : 8:27:35 PM
+Details : 
+Session & Cache is cleared.
+--------------------------------------------------------------------------------
+Log Entry : 8:27:43 PM
+Details : 
+Method 'ASP.controls_list_ascx.Value' not found.
+--------------------------------------------------------------------------------

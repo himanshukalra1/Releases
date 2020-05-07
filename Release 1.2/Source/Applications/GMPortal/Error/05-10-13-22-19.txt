@@ -1,0 +1,24 @@
+Log Entry : 10:19:25 PM
+Details : 
+Session & Cache is cleared.
+--------------------------------------------------------------------------------
+Log Entry : 10:19:57 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:19:57 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:19:57 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:19:57 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:19:57 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Cancel' not found.
+--------------------------------------------------------------------------------

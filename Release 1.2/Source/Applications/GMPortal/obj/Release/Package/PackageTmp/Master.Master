@@ -1,0 +1,57 @@
+﻿<%@ Master Language="c#" AutoEventWireup="false" Codebehind="~/Master.Master.cs" Inherits="GMPortal.Master" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Register TagPrefix="ctl" TagName="ValidationSummary" Src="~/Controls/ValidationSummary.ascx" %>
+<%@ Register TagPrefix="ctl" TagName="Error" Src="~/Controls/Error.ascx" %>
+<%@ Register TagPrefix="ctl" TagName="Button" Src="~/Controls/Button.ascx" %>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Admin</title>
+</head>
+<body>
+    <form id="frmMaster" runat="server">
+    <table class="tbScale tbMaster" cellspacing="0" cellpadding="0">
+        <tr class="trHeaderLogo">
+            <td class="White" style="width: 100%;" colspan="2">
+                <asp:Image ID="imgMain" ImageUrl="~/Images/logomain.gif" runat="server" />
+                <asp:Image ID="imgSub" ImageUrl="~/Images/logomain2.gif" runat="server" />
+            </td>
+        </tr>
+        <tr class="trtopmenu">
+            <td id="tdMenu">
+                <asp:Menu ID="mtMenu" RenderingMode="List" Orientation="Horizontal" StaticEnableDefaultPopOutImage="false" OnDataBound="mtMenu_DataBound" runat="server">
+                    <DataBindings>
+                        <asp:MenuItemBinding DataMember="siteMapNode" TextField="title" NavigateUrlField="url" />
+                    </DataBindings>
+                </asp:Menu>
+                <asp:SiteMapDataSource ID="smdsAdmin" runat="server" SiteMapProvider="MenuMap" ShowStartingNode="false" />
+            </td>
+            <td align="right">
+                <asp:Label ID="lblUserName" runat="server" CssClass="White"></asp:Label>&nbsp;&nbsp;&nbsp;
+                <ctl:Button ID="btnLogOut" CausesValidation="false" Text="Log out" runat="server"  />
+            </td>
+        </tr>
+        <tr class="trInformation">
+            <td id='tdInformation' colspan="2" align="left" style="display: none;">
+                <ctl:ValidationSummary ID="vsMaster" runat="server" />
+                <ctl:Error ID="erMaster" runat="server" />
+            </td>
+        </tr>
+        <tr align="left" valign="top" class="trContainer">
+            <td colspan="2">
+                <div class="divContainer">
+                    <asp:ContentPlaceHolder ID="cphMaster" runat="server" />
+                </div>
+            </td>
+        </tr>
+        <tr><td colspan="2" style="height:16pt;"></td></tr>
+        <tr class="trfooter">
+            <td colspan="2">
+                <a href='#'>Privacy Statement</a> &nbsp;&nbsp; <a href='#'>Contact Us</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                ©2009, Reliance Information Source,Inc.
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>

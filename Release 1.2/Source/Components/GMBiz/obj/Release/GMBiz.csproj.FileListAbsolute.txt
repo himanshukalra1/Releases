@@ -1,0 +1,17 @@
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMBiz.dll
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMBiz.pdb
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMConstants.dll
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMDB.dll
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMDBDetail.dll
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMDBMap.dll
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMSecurity.dll
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMUtilities.dll
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMConstants.pdb
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMUtilities.pdb
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMDBDetail.pdb
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMDBMap.pdb
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMDB.pdb
+C:\Himanshu\Test\Work\Source\Components\GMBiz\bin\Release\GMSecurity.pdb
+C:\Himanshu\Test\Work\Source\Components\GMBiz\obj\Release\GMBiz.csprojResolveAssemblyReference.cache
+C:\Himanshu\Test\Work\Source\Components\GMBiz\obj\Release\GMBiz.dll
+C:\Himanshu\Test\Work\Source\Components\GMBiz\obj\Release\GMBiz.pdb

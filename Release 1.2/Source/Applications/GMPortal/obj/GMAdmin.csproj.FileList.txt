@@ -1,0 +1,13 @@
+bin\GMAdmin.dll
+bin\GMAdmin.pdb
+bin\GMConstants.dll
+bin\GMUC.dll
+bin\GMUIBiz.dll
+bin\GMUIDetail.dll
+bin\GMUtilities.dll
+bin\GMWAUtils.dll
+bin\GMClientService.dll
+bin\GMServiceUtilities.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMAdmin.dll
+obj\Debug\GMAdmin.pdb

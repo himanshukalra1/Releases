@@ -1,0 +1,13 @@
+F:\Projects\Codebase\Source\Components\WSFacade\bin\WSFacade.dll
+F:\Projects\Codebase\Source\Components\WSFacade\bin\WSFacade.pdb
+F:\Projects\Codebase\Source\Components\WSFacade\bin\WSBiz.dll
+F:\Projects\Codebase\Source\Components\WSFacade\bin\WSConstants.dll
+F:\Projects\Codebase\Source\Components\WSFacade\bin\WSDBDetail.dll
+F:\Projects\Codebase\Source\Components\WSFacade\bin\WSUIDetail.dll
+F:\Projects\Codebase\Source\Components\WSFacade\bin\WSUtilities.dll
+F:\Projects\Codebase\Source\Components\WSFacade\bin\WSSecurityManager.dll
+F:\Projects\Codebase\Source\Components\WSFacade\bin\WSDB.dll
+F:\Projects\Codebase\Source\Components\WSFacade\bin\WSDBMap.dll
+F:\Projects\Codebase\Source\Components\WSFacade\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Codebase\Source\Components\WSFacade\obj\Debug\WSFacade.dll
+F:\Projects\Codebase\Source\Components\WSFacade\obj\Debug\WSFacade.pdb

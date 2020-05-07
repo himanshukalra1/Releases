@@ -1,0 +1,10 @@
+bin\WSUIBiz.dll
+bin\WSUIBiz.pdb
+bin\WSClientService.dll
+bin\WSConstants.dll
+bin\WSServiceUtilities.dll
+bin\WSUIDetail.dll
+bin\WSUtilities.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WSUIBiz.dll
+obj\Debug\WSUIBiz.pdb

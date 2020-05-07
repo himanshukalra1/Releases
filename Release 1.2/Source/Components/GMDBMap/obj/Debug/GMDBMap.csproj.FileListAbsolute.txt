@@ -1,0 +1,4 @@
+C:\Himanshu\Test\Work\Source\Components\GMDBMap\bin\GMDBMap.dll
+C:\Himanshu\Test\Work\Source\Components\GMDBMap\bin\GMDBMap.pdb
+C:\Himanshu\Test\Work\Source\Components\GMDBMap\obj\Debug\GMDBMap.dll
+C:\Himanshu\Test\Work\Source\Components\GMDBMap\obj\Debug\GMDBMap.pdb

@@ -1,0 +1,24 @@
+Log Entry : 10:34:51 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatch.ountyRate' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:34:51 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatch.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:34:51 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatch.Upload' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:34:51 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatch.sg' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:34:51 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatch.Msg' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:34:51 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatch.Continue' not found.
+--------------------------------------------------------------------------------

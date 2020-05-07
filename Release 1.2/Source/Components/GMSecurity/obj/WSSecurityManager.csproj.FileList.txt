@@ -1,0 +1,13 @@
+bin\WSSecurityManager.dll
+bin\WSSecurityManager.pdb
+bin\WSConstants.dll
+bin\WSDB.dll
+bin\WSDBDetail.dll
+bin\WSDBMap.dll
+bin\WSUtilities.dll
+bin\WSDB.pdb
+bin\WSDBMap.pdb
+bin\WSDBDetail.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WSSecurityManager.dll
+obj\Debug\WSSecurityManager.pdb

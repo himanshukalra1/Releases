@@ -1,0 +1,9 @@
+C:\Himanshu\Test\Work\Source\Components\GMUIDetail\bin\Release\GMUIDetail.dll
+C:\Himanshu\Test\Work\Source\Components\GMUIDetail\bin\Release\GMUIDetail.pdb
+C:\Himanshu\Test\Work\Source\Components\GMUIDetail\bin\Release\GMConstants.dll
+C:\Himanshu\Test\Work\Source\Components\GMUIDetail\bin\Release\GMUtilities.dll
+C:\Himanshu\Test\Work\Source\Components\GMUIDetail\bin\Release\GMConstants.pdb
+C:\Himanshu\Test\Work\Source\Components\GMUIDetail\bin\Release\GMUtilities.pdb
+C:\Himanshu\Test\Work\Source\Components\GMUIDetail\obj\Release\GMUIDetail.csprojResolveAssemblyReference.cache
+C:\Himanshu\Test\Work\Source\Components\GMUIDetail\obj\Release\GMUIDetail.dll
+C:\Himanshu\Test\Work\Source\Components\GMUIDetail\obj\Release\GMUIDetail.pdb

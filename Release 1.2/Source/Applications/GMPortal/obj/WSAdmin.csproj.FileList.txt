@@ -1,0 +1,13 @@
+bin\WSAdmin.dll
+bin\WSAdmin.pdb
+bin\WSConstants.dll
+bin\WSUC.dll
+bin\WSUIBiz.dll
+bin\WSUIDetail.dll
+bin\WSUtilities.dll
+bin\WSWAUtils.dll
+bin\WSServiceUtilities.dll
+bin\WSClientService.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WSAdmin.dll
+obj\Debug\WSAdmin.pdb

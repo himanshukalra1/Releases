@@ -1,0 +1,13 @@
+bin\GMFacade.dll
+bin\GMFacade.pdb
+bin\GMBiz.dll
+bin\GMConstants.dll
+bin\GMDBDetail.dll
+bin\GMUIDetail.dll
+bin\GMUtilities.dll
+bin\GMSecurityManager.dll
+bin\GMDB.dll
+bin\GMDBMap.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMFacade.dll
+obj\Debug\GMFacade.pdb

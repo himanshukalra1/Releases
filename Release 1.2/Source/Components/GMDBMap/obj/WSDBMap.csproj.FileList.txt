@@ -1,0 +1,5 @@
+bin\WSDBMap.dll
+bin\WSDBMap.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WSDBMap.dll
+obj\Debug\WSDBMap.pdb

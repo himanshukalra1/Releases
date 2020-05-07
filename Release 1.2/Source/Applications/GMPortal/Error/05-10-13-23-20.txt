@@ -1,0 +1,160 @@
+Log Entry : 11:20:00 PM
+Details : 
+Method 'GMUIDetail.Security.Users.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:00 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:00 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:00 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:00 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:03 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:03 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 11:20:04 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.DailySalary' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:04 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 11:20:04 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 11:20:04 PM
+Details : 
+Method 'ASP.controls_twolist_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:04 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:04 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:04 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:04 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.HContent' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:04 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.ontent' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:15 PM
+Details : 
+Method 'ASP.controls_pagetitle_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:15 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.DailySalary' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:15 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:15 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:15 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:15 PM
+Details : 
+Method 'ASP.controls_pagetitle_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:15 PM
+Details : 
+Method 'ASP.controls_passwordhint_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:22 PM
+Details : 
+Session & Cache is cleared.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:51 PM
+Details : 
+Method 'GMUIDetail.Security.Users.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:51 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:51 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:51 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:51 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.DailySalary' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+Method 'ASP.controls_twolist_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.HContent' not found.
+--------------------------------------------------------------------------------
+Log Entry : 11:20:53 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.ontent' not found.
+--------------------------------------------------------------------------------

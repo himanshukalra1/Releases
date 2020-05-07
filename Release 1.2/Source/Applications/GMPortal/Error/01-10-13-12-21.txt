@@ -1,0 +1,136 @@
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.Search' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.CompanyID' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.CustomerRefNo' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.CaseTypeID' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.ActionID' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.Go' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.Clear' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.Search' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.ShowSearch' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.DataTable1' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:18 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordPipeline.RecordPipeline' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:21 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:21 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:21 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:21 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:21 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:23 PM
+Details : 
+Method 'GMUIDetail.Entity.DCCompany.ountyRate' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:23 PM
+Details : 
+Method 'GMUIDetail.Entity.DCCompany.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:23 PM
+Details : 
+Method 'GMUIDetail.Entity.DCCompany.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:23 PM
+Details : 
+Method 'GMUIDetail.Entity.DCCompany.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:23 PM
+Details : 
+Method 'GMUIDetail.Entity.DCCompany.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:34 PM
+Details : 
+Method 'System.Web.UI.ScriptManager.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:34 PM
+Details : 
+Method 'ASP.controls_pagetitle_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:34 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:34 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:34 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:36 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:36 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:36 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:36 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 12:21:36 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Cancel' not found.
+--------------------------------------------------------------------------------

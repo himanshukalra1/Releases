@@ -1,0 +1,10 @@
+bin\GMUIBiz.dll
+bin\GMUIBiz.pdb
+bin\GMClientService.dll
+bin\GMConstants.dll
+bin\GMServiceUtilities.dll
+bin\GMUIDetail.dll
+bin\GMUtilities.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMUIBiz.dll
+obj\Debug\GMUIBiz.pdb

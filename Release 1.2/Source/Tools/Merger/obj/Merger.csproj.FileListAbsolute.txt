@@ -1,0 +1,8 @@
+D:\Test\Develop\Source\Tools\Merger\bin\Merger.exe
+D:\Test\Develop\Source\Tools\Merger\bin\Merger.pdb
+D:\Test\Develop\Source\Tools\Merger\obj\Release\ResolveAssemblyReference.cache
+D:\Test\Develop\Source\Tools\Merger\obj\Release\Merger.Merger.resources
+D:\Test\Develop\Source\Tools\Merger\obj\Release\Merger.Properties.Resources.resources
+D:\Test\Develop\Source\Tools\Merger\obj\Release\Merger.csproj.GenerateResource.Cache
+D:\Test\Develop\Source\Tools\Merger\obj\Release\Merger.exe
+D:\Test\Develop\Source\Tools\Merger\obj\Release\Merger.pdb

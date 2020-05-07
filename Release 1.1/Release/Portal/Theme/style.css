@@ -1,0 +1,279 @@
+HTML, BODY {height:100%; padding:0;margin:0;} 
+
+BODY, TD, TH, SPAN, DIV, A, P, INPUT, BUTTON, SELECT, TEXTAREA, LABEL,OPTION, H1,H2,H3,H4,H5,H6{
+font-family:Tahoma;
+font-size:8pt;
+}
+
+INPUT[type='text'],INPUT[type='password'],SELECT,textarea{
+border-color:Black;
+border-style:solid;
+border-width:1px;
+}
+
+.tbScale{width:100%;height:96%;}
+
+.Button{
+height:14pt;border:solid 1pt #808080;cursor:hand;vertical-align:middle;
+background-color:#1A3D64;
+color:#ffffff;
+margin:2pt;
+font-weight:bold;
+}
+
+.Bold{font-weight:bold;}
+
+.Required{color:Red;}
+
+.Error{	color:Red;margin-left:4px;}
+
+.NormalCursor{cursor:default;}
+
+.GridHeader{
+border: 0px none #CCCCCC;
+font-weight: bold;
+background-color: #c0c0c0;
+text-align: center;
+}
+
+.header{
+border: 0px none #CCCCCC;
+font-weight: bold;
+}
+
+.GridItem, .listItem. TD.GridItem{
+background-color: #ffffff;
+}
+
+.GridAltItem, .altItem{
+background-color: #E8EAF2;
+}
+
+.trHeaderLogo
+{height:1%; width:100%; text-align:center;}
+    
+.trtopmenu{   
+height:5%;
+background-image: url(../Images/Menu.png);
+padding-right: 20px;
+}
+
+.trInformation
+{height:2%; }
+
+.trContainer {height:70%; width:100%;}
+.divContainer {width:100%;}
+
+.divContainer Table
+{width:100%; text-align:center;
+ margin:0;padding:0;
+ }
+
+.divContainer Table Table
+{text-align:center;}
+
+.trfooter1 {
+height:12pt;
+bottom: 0;
+margin: 0 auto;
+left: 45%;
+vertical-align:middle;
+text-align: center;
+background-color:#c0c0c0;
+}
+
+.trfooter{
+left: 45%;
+height:14pt;
+text-align: center;
+clear: both;
+background-image: url(../Images/Menu.png);
+font-size: 12px;
+color: #ffffff;
+font-weight: normal;
+z-index: 999;
+padding-left: 8px;
+text-align: center;
+}
+
+.trfooter a{
+color: #ffffff; 
+font-weight:normal;
+}
+
+#mtMenu {
+text-align: center;
+clear: both;
+background-image: url(Images/Menu.png);
+font-size: 12px;
+color: #ffffff;
+font-weight: bolder;
+z-index: 999;
+padding-left: 8px;
+text-align: left;
+}
+
+#mtMenu ul ul {
+display: none;
+}
+
+#mtMenu A.static {
+text-align: center;
+padding-left: 0px;
+padding-right: 24px;
+}
+
+#mtMenu ul li:hover > ul {
+display: block;
+position: absolute;
+}
+
+#mtMenu ul {
+border-radius: 10px;  
+list-style: none;
+position: relative;
+display: inline-table;
+padding-left: 4px;
+}
+
+#mtMenu ul li {
+float: left;
+}
+
+#mtMenu ul li:hover a {
+color: #fff;
+}
+		
+#mtMenu ul li a {
+display: block; padding: 0px 40px;
+color: #ffffff; text-decoration: none;
+}
+			
+		
+#mtMenu ul ul {
+background: #5bade0; border-radius: 0px; padding: 0px;
+position: absolute; 
+}
+
+#mtMenu ul ul li {
+float: none; 
+position: relative;
+z-index: 9999;
+}
+
+#mtMenu ul ul li a {
+padding: 4px 8px ;
+color: #fff;
+z-index: 9999;
+}	
+
+#mtMenu ul ul li a:hover {
+background: #4b545f;
+}
+
+.match, .match a{
+background: green;
+color: #fff;
+}
+
+.hit ,.hit a{
+background: red;
+color: #fff;
+height:100%;
+}
+
+.table TD{
+text-align: left;
+height:15px;
+padding: 5px;
+}
+
+#tdMenu,.White
+{color:White;}
+
+.gridPager 
+{
+padding-left: 4px;     
+padding-right: 4px;   
+text-align: right;
+}
+.gridPager td
+{
+padding-left: 4px;     
+padding-right: 4px; 
+}
+
+.gridPager td Table
+{
+    width: 0%;
+}
+
+.gridPager, .gridPager td
+{   
+   text-align: right;
+   font-weight: bold;
+background: #D9D9D9;
+}
+
+.gridPager a
+{
+   font-weight: normal;
+}
+
+th.sortasc a    
+{
+ display:block; 
+    background:url(../Images/asc.gif) no-repeat right;
+}
+ 
+th.sortdesc a 
+{
+    display:block; 
+    background:url(../Images/desc.gif) no-repeat right;
+}
+
+    
+.gridTable td , .gridTable th
+{
+    border-style:outset ;
+    }
+    
+.gridTable td td
+{
+    border-style:none ;
+    }
+    
+#divContainer{background-color:#fff;color: #000;border: 1px solid #000;padding: 0.2em;bottom: 5px;right: 5px;position: relative;}
+
+  .popup {
+	padding: 40px;
+	background-color: #f3f3f3;
+    position:absolute;
+    top:30%;
+	left:10%;
+    display:none;
+	width: 70%;
+  }
+
+  .popup a {
+    position:absolute;
+    top:10%;
+    left:90%;
+
+  }
+
+
+         .Nested_ChildGrid
+        {
+ position:relative;
+ top:20px;
+ left:-40px;
+            
+        }
+        .Nested_ChildGrid th
+        {
+            background-color: #005A00 !important;
+            color: White;
+            font-size: 10pt;
+            line-height: 200%;
+        }

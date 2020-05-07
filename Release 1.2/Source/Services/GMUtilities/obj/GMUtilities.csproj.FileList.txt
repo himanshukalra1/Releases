@@ -1,0 +1,6 @@
+bin\GMConstants.dll
+obj\Debug\ResolveAssemblyReference.cache
+bin\GMUtilities.dll
+bin\GMUtilities.pdb
+obj\Debug\GMUtilities.dll
+obj\Debug\GMUtilities.pdb

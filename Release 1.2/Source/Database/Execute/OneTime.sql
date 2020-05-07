@@ -1,0 +1,2 @@
+DELETE FROM State_Type
+WHERE ID > 57

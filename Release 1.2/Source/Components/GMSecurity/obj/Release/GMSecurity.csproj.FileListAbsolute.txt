@@ -1,0 +1,15 @@
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMSecurity.dll
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMSecurity.pdb
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMConstants.dll
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMDB.dll
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMDBDetail.dll
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMDBMap.dll
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMUtilities.dll
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMConstants.pdb
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMUtilities.pdb
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMDBDetail.pdb
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMDBMap.pdb
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\bin\Release\GMDB.pdb
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\obj\Release\GMSecurity.csprojResolveAssemblyReference.cache
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\obj\Release\GMSecurity.dll
+C:\Himanshu\Test\Work\Source\Components\GMSecurity\obj\Release\GMSecurity.pdb

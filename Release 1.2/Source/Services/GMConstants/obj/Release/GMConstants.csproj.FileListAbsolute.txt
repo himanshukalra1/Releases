@@ -1,0 +1,4 @@
+C:\Himanshu\Test\Work\Source\Services\GMConstants\bin\Release\GMConstants.dll
+C:\Himanshu\Test\Work\Source\Services\GMConstants\bin\Release\GMConstants.pdb
+C:\Himanshu\Test\Work\Source\Services\GMConstants\obj\Release\GMConstants.dll
+C:\Himanshu\Test\Work\Source\Services\GMConstants\obj\Release\GMConstants.pdb

@@ -1,0 +1,11 @@
+F:\Projects\Codebase\Source\Components\WSDB\bin\WSDB.dll
+F:\Projects\Codebase\Source\Components\WSDB\bin\WSDB.pdb
+F:\Projects\Codebase\Source\Components\WSDB\bin\WSConstants.dll
+F:\Projects\Codebase\Source\Components\WSDB\bin\WSDBDetail.dll
+F:\Projects\Codebase\Source\Components\WSDB\bin\WSDBMap.dll
+F:\Projects\Codebase\Source\Components\WSDB\bin\WSUtilities.dll
+F:\Projects\Codebase\Source\Components\WSDB\bin\WSDBMap.pdb
+F:\Projects\Codebase\Source\Components\WSDB\bin\WSDBDetail.pdb
+F:\Projects\Codebase\Source\Components\WSDB\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Codebase\Source\Components\WSDB\obj\Debug\WSDB.dll
+F:\Projects\Codebase\Source\Components\WSDB\obj\Debug\WSDB.pdb

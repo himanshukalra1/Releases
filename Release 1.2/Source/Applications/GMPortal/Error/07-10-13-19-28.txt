@@ -1,0 +1,216 @@
+Log Entry : 7:28:03 PM
+Details : 
+Method 'System.Web.UI.ScriptManager.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:03 PM
+Details : 
+Method 'ASP.controls_pagetitle_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'System.Web.UI.WebControls.Label.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'System.Web.UI.UpdatePanel.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'System.Web.UI.UpdatePanel.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'System.Web.UI.WebControls.GridView.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'System.Web.UI.WebControls.Label.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'System.Web.UI.WebControls.Label.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.LevelRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.PleaRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.DispositionRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'System.Web.UI.WebControls.LinkButton.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.TotalCost' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'System.Web.UI.WebControls.GridView.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.AddCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.Case' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.aseRecord' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.SentencingDetails' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.ddCaseRecord' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.AddCaseRecord' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.aseRecord' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'System.Web.UI.WebControls.GridView.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.Index' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.Description' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.DSLevelRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.DSPleaRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.DSDispositionRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'System.Web.UI.ScriptManager.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'ASP.controls_pagetitle_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'System.Web.UI.WebControls.Label.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'System.Web.UI.UpdatePanel.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'System.Web.UI.UpdatePanel.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'System.Web.UI.WebControls.GridView.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'System.Web.UI.WebControls.Label.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'System.Web.UI.WebControls.Label.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.LevelRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.PleaRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.DispositionRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'System.Web.UI.WebControls.LinkButton.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:28:17 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------

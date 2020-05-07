@@ -1,0 +1,10 @@
+F:\Projects\Codebase\Source\Components\WSUIBiz\bin\WSUIBiz.dll
+F:\Projects\Codebase\Source\Components\WSUIBiz\bin\WSUIBiz.pdb
+F:\Projects\Codebase\Source\Components\WSUIBiz\bin\WSClientService.dll
+F:\Projects\Codebase\Source\Components\WSUIBiz\bin\WSConstants.dll
+F:\Projects\Codebase\Source\Components\WSUIBiz\bin\WSServiceUtilities.dll
+F:\Projects\Codebase\Source\Components\WSUIBiz\bin\WSUIDetail.dll
+F:\Projects\Codebase\Source\Components\WSUIBiz\bin\WSUtilities.dll
+F:\Projects\Codebase\Source\Components\WSUIBiz\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Codebase\Source\Components\WSUIBiz\obj\Debug\WSUIBiz.dll
+F:\Projects\Codebase\Source\Components\WSUIBiz\obj\Debug\WSUIBiz.pdb

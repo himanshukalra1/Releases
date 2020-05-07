@@ -1,0 +1,20 @@
+Log Entry : 6:46:34 PM
+Details : 
+Session & Cache is cleared.
+--------------------------------------------------------------------------------
+Log Entry : 6:46:39 PM
+Details : 
+Method 'ASP.controls_list_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 6:46:48 PM
+Details : 
+Method 'ASP.controls_list_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 6:46:55 PM
+Details : 
+Method 'ASP.controls_list_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 6:46:58 PM
+Details : 
+Method 'ASP.controls_list_ascx.Value' not found.
+--------------------------------------------------------------------------------

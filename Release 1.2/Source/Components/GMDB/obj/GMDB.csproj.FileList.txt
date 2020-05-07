@@ -1,0 +1,11 @@
+bin\GMDB.dll
+bin\GMDB.pdb
+bin\GMConstants.dll
+bin\GMDBDetail.dll
+bin\GMDBMap.dll
+bin\GMUtilities.dll
+bin\GMDBDetail.pdb
+bin\GMDBMap.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMDB.dll
+obj\Debug\GMDB.pdb

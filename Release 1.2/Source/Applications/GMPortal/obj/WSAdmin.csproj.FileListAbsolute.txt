@@ -1,0 +1,13 @@
+F:\Projects\Codebase\Source\Applications\WSAdmin\bin\WSAdmin.dll
+F:\Projects\Codebase\Source\Applications\WSAdmin\bin\WSAdmin.pdb
+F:\Projects\Codebase\Source\Applications\WSAdmin\bin\WSConstants.dll
+F:\Projects\Codebase\Source\Applications\WSAdmin\bin\WSUC.dll
+F:\Projects\Codebase\Source\Applications\WSAdmin\bin\WSUIBiz.dll
+F:\Projects\Codebase\Source\Applications\WSAdmin\bin\WSUIDetail.dll
+F:\Projects\Codebase\Source\Applications\WSAdmin\bin\WSUtilities.dll
+F:\Projects\Codebase\Source\Applications\WSAdmin\bin\WSWAUtils.dll
+F:\Projects\Codebase\Source\Applications\WSAdmin\bin\WSServiceUtilities.dll
+F:\Projects\Codebase\Source\Applications\WSAdmin\bin\WSClientService.dll
+F:\Projects\Codebase\Source\Applications\WSAdmin\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Codebase\Source\Applications\WSAdmin\obj\Debug\WSAdmin.dll
+F:\Projects\Codebase\Source\Applications\WSAdmin\obj\Debug\WSAdmin.pdb

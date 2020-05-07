@@ -1,0 +1,13 @@
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\bin\Release\GMWebUtilities.dll
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\bin\Release\GMWebUtilities.XmlSerializers.dll
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\bin\Release\GMWebUtilities.pdb
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\bin\Release\GMConstants.dll
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\bin\Release\GMUIDetail.dll
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\bin\Release\GMUtilities.dll
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\bin\Release\GMConstants.pdb
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\bin\Release\GMUtilities.pdb
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\bin\Release\GMUIDetail.pdb
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\obj\Release\GMWebUtilities.csprojResolveAssemblyReference.cache
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\obj\Release\GMWebUtilities.dll
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\obj\Release\GMWebUtilities.pdb
+C:\Himanshu\Test\Work\Source\Components\GMWebUtilities\obj\Release\GMWebUtilities.XmlSerializers.dll

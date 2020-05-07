@@ -1,0 +1,7 @@
+bin\WSDBDetail.dll
+bin\WSDBDetail.pdb
+bin\WSConstants.dll
+bin\WSDBMap.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WSDBDetail.dll
+obj\Debug\WSDBDetail.pdb

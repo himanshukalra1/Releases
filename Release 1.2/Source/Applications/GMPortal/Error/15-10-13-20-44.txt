@@ -1,0 +1,28 @@
+Log Entry : 8:44:18 PM
+Details : 
+'ucDDL' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+--------------------------------------------------------------------------------
+Log Entry : 8:44:18 PM
+Details : 
+'ucDDL' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+--------------------------------------------------------------------------------
+Log Entry : 8:44:34 PM
+Details : 
+'ucDDL' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+--------------------------------------------------------------------------------
+Log Entry : 8:44:34 PM
+Details : 
+'ucDDL' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+--------------------------------------------------------------------------------
+Log Entry : 8:44:47 PM
+Details : 
+Session & Cache is cleared.
+--------------------------------------------------------------------------------
+Log Entry : 8:44:54 PM
+Details : 
+Method 'ASP.controls_list_ascx.Value' not found.
+--------------------------------------------------------------------------------

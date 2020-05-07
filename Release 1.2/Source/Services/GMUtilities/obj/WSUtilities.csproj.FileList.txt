@@ -1,0 +1,6 @@
+bin\WSUtilities.dll
+bin\WSUtilities.pdb
+bin\WSConstants.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WSUtilities.dll
+obj\Debug\WSUtilities.pdb

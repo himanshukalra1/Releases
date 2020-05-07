@@ -1,0 +1,13 @@
+C:\Himanshu\Test\Work\Source\Components\GMDB\bin\GMDB.dll
+C:\Himanshu\Test\Work\Source\Components\GMDB\bin\GMDB.pdb
+C:\Himanshu\Test\Work\Source\Components\GMDB\bin\GMConstants.dll
+C:\Himanshu\Test\Work\Source\Components\GMDB\bin\GMDBDetail.dll
+C:\Himanshu\Test\Work\Source\Components\GMDB\bin\GMDBMap.dll
+C:\Himanshu\Test\Work\Source\Components\GMDB\bin\GMUtilities.dll
+C:\Himanshu\Test\Work\Source\Components\GMDB\bin\GMConstants.pdb
+C:\Himanshu\Test\Work\Source\Components\GMDB\bin\GMUtilities.pdb
+C:\Himanshu\Test\Work\Source\Components\GMDB\bin\GMDBDetail.pdb
+C:\Himanshu\Test\Work\Source\Components\GMDB\bin\GMDBMap.pdb
+C:\Himanshu\Test\Work\Source\Components\GMDB\obj\Debug\GMDB.csprojResolveAssemblyReference.cache
+C:\Himanshu\Test\Work\Source\Components\GMDB\obj\Debug\GMDB.dll
+C:\Himanshu\Test\Work\Source\Components\GMDB\obj\Debug\GMDB.pdb

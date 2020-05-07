@@ -1,0 +1,5 @@
+bin\GMConstants.dll
+bin\GMConstants.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMConstants.dll
+obj\Debug\GMConstants.pdb

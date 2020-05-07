@@ -1,0 +1,396 @@
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.Search' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'System.Web.UI.WebControls.GridView.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:02 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:03 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:03 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:40 PM
+Details : 
+Method 'GMUIDetail.Security.Users.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:40 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:40 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:40 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:40 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.DailySalary' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+Method 'ASP.controls_twolist_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.HContent' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:43 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.ontent' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'ASP.controls_pagetitle_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.DailySalary' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'ASP.controls_pagetitle_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'ASP.controls_passwordhint_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'GMUIDetail.Security.Users.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:47 PM
+Details : 
+Method 'GMUIDetail.Security.Users.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.DailySalary' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+BooleanConverter cannot convert from (null).
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+Method 'ASP.controls_twolist_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.HContent' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:54:48 PM
+Details : 
+Method 'GMUIDetail.Security.DCUser2.ontent' not found.
+--------------------------------------------------------------------------------

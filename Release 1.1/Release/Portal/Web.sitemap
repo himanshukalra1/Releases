@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode title="Main"  description="Main">
+    <siteMapNode title="Home"  description="Home" url="Default.aspx" />
+    <siteMapNode title="Batch"  description="Batch">
+      <siteMapNode url="~/Entity/BatchUpload.aspx"  title="Upload"  description="Batch Upload" />
+    </siteMapNode>
+    <siteMapNode title="Pipeline"  description="Pipeline">
+      <siteMapNode url="~/Pipeline/BatchPipeline.aspx"  title="Batch Pipeline"  description="Batch Pipeline" />
+      <siteMapNode url="~/Pipeline/RecordPipeline.aspx"  title="Record Pipeline"  description="Record Pipeline" />
+    </siteMapNode>
+    <siteMapNode title="Administration" description="Administration">
+      <siteMapNode url="~/Security/Groups.aspx"  title="Groups"  description="Groups creation/modification" />
+      <siteMapNode url="~/Security/Users.aspx"  title="Users"  description="Users creation/modification" />
+      <siteMapNode url="~/Security/SystemUI.aspx"  title="System"  description="System level settings" />
+      <siteMapNode url="~/Entity/Vendors.aspx"  title="Vendors"  description="Vendor level settings" />
+      <siteMapNode url="~/Entity/Companies.aspx"  title="Companies"  description="Company level settings" />
+      </siteMapNode>
+  </siteMapNode>
+</siteMap>
+

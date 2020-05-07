@@ -1,0 +1,13 @@
+F:\Projects\Codebase\Source\Components\WSSecurityManager\bin\WSSecurityManager.dll
+F:\Projects\Codebase\Source\Components\WSSecurityManager\bin\WSSecurityManager.pdb
+F:\Projects\Codebase\Source\Components\WSSecurityManager\bin\WSConstants.dll
+F:\Projects\Codebase\Source\Components\WSSecurityManager\bin\WSDB.dll
+F:\Projects\Codebase\Source\Components\WSSecurityManager\bin\WSDBDetail.dll
+F:\Projects\Codebase\Source\Components\WSSecurityManager\bin\WSDBMap.dll
+F:\Projects\Codebase\Source\Components\WSSecurityManager\bin\WSUtilities.dll
+F:\Projects\Codebase\Source\Components\WSSecurityManager\bin\WSDB.pdb
+F:\Projects\Codebase\Source\Components\WSSecurityManager\bin\WSDBMap.pdb
+F:\Projects\Codebase\Source\Components\WSSecurityManager\bin\WSDBDetail.pdb
+F:\Projects\Codebase\Source\Components\WSSecurityManager\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Codebase\Source\Components\WSSecurityManager\obj\Debug\WSSecurityManager.dll
+F:\Projects\Codebase\Source\Components\WSSecurityManager\obj\Debug\WSSecurityManager.pdb

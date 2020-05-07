@@ -1,0 +1,8 @@
+bin\GMWAUtils.dll
+bin\GMWAUtils.pdb
+bin\GMConstants.dll
+bin\GMUIDetail.dll
+bin\GMUtilities.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMWAUtils.dll
+obj\Debug\GMWAUtils.pdb

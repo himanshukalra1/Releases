@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DBDS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=FNFLPTCV2\MSSQLSERVERR2;Initial Catalog=Verify</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>6d9b0bf2-3b2b-4db0-ae8d-5cf01d96155d</DataSourceID>
+</RptDataSource>

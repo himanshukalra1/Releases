@@ -1,0 +1,20 @@
+Log Entry : 4:15:05 PM
+Details : 
+Method 'ASP.controls_list_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 4:15:09 PM
+Details : 
+Method 'ASP.controls_twolist_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 4:15:27 PM
+Details : 
+Method 'ASP.controls_twolist_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 4:15:38 PM
+Details : 
+Method 'ASP.controls_list_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 4:15:39 PM
+Details : 
+Session & Cache is cleared.
+--------------------------------------------------------------------------------

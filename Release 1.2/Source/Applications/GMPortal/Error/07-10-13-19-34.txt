@@ -1,0 +1,40 @@
+Log Entry : 7:34:01 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:34:01 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:34:01 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:34:01 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:34:01 PM
+Details : 
+Method 'GMUIDetail.Entity.Companies.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:34:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCCompany.ountyRate' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:34:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCCompany.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:34:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCCompany.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:34:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCCompany.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:34:04 PM
+Details : 
+Method 'GMUIDetail.Entity.DCCompany.Cancel' not found.
+--------------------------------------------------------------------------------

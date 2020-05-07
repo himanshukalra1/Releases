@@ -1,0 +1,14 @@
+bin\WSBiz.dll
+bin\WSBiz.pdb
+bin\WSConstants.dll
+bin\WSDB.dll
+bin\WSDBDetail.dll
+bin\WSDBMap.dll
+bin\WSSecurityManager.dll
+bin\WSUtilities.dll
+bin\WSDB.pdb
+bin\WSDBMap.pdb
+bin\WSDBDetail.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WSBiz.dll
+obj\Debug\WSBiz.pdb

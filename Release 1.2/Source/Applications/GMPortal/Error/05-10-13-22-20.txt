@@ -1,0 +1,140 @@
+Log Entry : 10:20:08 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:08 PM
+Details : 
+Method 'ASP.controls_twolist_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:08 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:08 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:08 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:15 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:15 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:15 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:15 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:15 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:29 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:29 PM
+Details : 
+Method 'ASP.controls_twolist_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:29 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:29 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:29 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:31 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:31 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:31 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:31 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:31 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:31 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:31 PM
+Details : 
+Method 'ASP.controls_twolist_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:31 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:31 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:31 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:33 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:33 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Members' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:33 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Create' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:33 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Modify' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:33 PM
+Details : 
+Method 'GMUIDetail.Security.Groups.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:35 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:35 PM
+Details : 
+Method 'ASP.controls_twolist_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:35 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:35 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Delete' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:20:35 PM
+Details : 
+Method 'GMUIDetail.Security.DCGroup2.Cancel' not found.
+--------------------------------------------------------------------------------

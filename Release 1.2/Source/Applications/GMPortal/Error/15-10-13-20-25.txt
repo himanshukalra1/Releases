@@ -1,0 +1,5 @@
+Log Entry : 8:25:38 PM
+Details : 
+'ucDDL' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+--------------------------------------------------------------------------------

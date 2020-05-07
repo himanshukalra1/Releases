@@ -1,0 +1,7 @@
+F:\Projects\Codebase\Source\Components\WSUIDetail\bin\WSUIDetail.dll
+F:\Projects\Codebase\Source\Components\WSUIDetail\bin\WSUIDetail.pdb
+F:\Projects\Codebase\Source\Components\WSUIDetail\bin\WSConstants.dll
+F:\Projects\Codebase\Source\Components\WSUIDetail\bin\WSUtilities.dll
+F:\Projects\Codebase\Source\Components\WSUIDetail\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Codebase\Source\Components\WSUIDetail\obj\Debug\WSUIDetail.dll
+F:\Projects\Codebase\Source\Components\WSUIDetail\obj\Debug\WSUIDetail.pdb

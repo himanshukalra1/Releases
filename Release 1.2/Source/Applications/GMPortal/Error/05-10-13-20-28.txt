@@ -1,0 +1,24 @@
+Log Entry : 8:28:10 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 8:28:10 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.Search' not found.
+--------------------------------------------------------------------------------
+Log Entry : 8:28:10 PM
+Details : 
+Method 'System.Web.UI.WebControls.GridView.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 8:28:10 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 8:28:10 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.ecordCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 8:28:10 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordSearch.RecordCaseData' not found.
+--------------------------------------------------------------------------------

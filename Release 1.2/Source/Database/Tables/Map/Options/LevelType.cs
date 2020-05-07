@@ -1,0 +1,17 @@
+namespace GMDBMap.Options
+{
+	using System;
+
+	public class LevelTypeMap : Base.IBaseMap
+	{
+		#region Procedure
+		public const string ProcedureGet = "Get_Level_Type";
+		#endregion
+
+		#region Members
+		public const string ID = "ID";
+		public const string Name = "Name";
+		public const string Value = "Value";
+		#endregion
+	}
+}

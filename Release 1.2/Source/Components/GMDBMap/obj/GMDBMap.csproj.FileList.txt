@@ -1,0 +1,5 @@
+bin\GMDBMap.dll
+bin\GMDBMap.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMDBMap.dll
+obj\Debug\GMDBMap.pdb

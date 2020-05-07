@@ -1,0 +1,18 @@
+Log Entry : 8:17:27 PM
+Details : 
+Session & Cache is cleared.
+--------------------------------------------------------------------------------
+Log Entry : 8:17:34 PM
+Details : 
+Method 'ASP.controls_list_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 8:17:36 PM
+Details : 
+'ucDDL' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+--------------------------------------------------------------------------------
+Log Entry : 8:17:36 PM
+Details : 
+'ucDDL' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+--------------------------------------------------------------------------------

@@ -1,0 +1,13 @@
+bin\WSFacade.dll
+bin\WSFacade.pdb
+bin\WSBiz.dll
+bin\WSConstants.dll
+bin\WSDBDetail.dll
+bin\WSUIDetail.dll
+bin\WSUtilities.dll
+bin\WSSecurityManager.dll
+bin\WSDB.dll
+bin\WSDBMap.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WSFacade.dll
+obj\Debug\WSFacade.pdb

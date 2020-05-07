@@ -1,0 +1,5 @@
+bin\WSConstants.dll
+bin\WSConstants.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WSConstants.dll
+obj\Debug\WSConstants.pdb

@@ -1,0 +1,7 @@
+C:\Himanshu\Test\Work\Source\Services\GMUtilities\bin\Release\GMUtilities.dll
+C:\Himanshu\Test\Work\Source\Services\GMUtilities\bin\Release\GMUtilities.pdb
+C:\Himanshu\Test\Work\Source\Services\GMUtilities\bin\Release\GMConstants.dll
+C:\Himanshu\Test\Work\Source\Services\GMUtilities\bin\Release\GMConstants.pdb
+C:\Himanshu\Test\Work\Source\Services\GMUtilities\obj\Release\GMUtilities.csprojResolveAssemblyReference.cache
+C:\Himanshu\Test\Work\Source\Services\GMUtilities\obj\Release\GMUtilities.dll
+C:\Himanshu\Test\Work\Source\Services\GMUtilities\obj\Release\GMUtilities.pdb

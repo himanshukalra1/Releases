@@ -1,0 +1,36 @@
+Log Entry : 10:06:56 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.itle' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:06:56 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.TotalCost' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:06:56 PM
+Details : 
+Method 'System.Web.UI.WebControls.GridView.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:06:56 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.Save' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:06:56 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.AddCase' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:06:56 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.Cancel' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:06:56 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.RecordId' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:06:56 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.Case' not found.
+--------------------------------------------------------------------------------
+Log Entry : 10:06:56 PM
+Details : 
+Method 'GMUIDetail.Entity.DCBatchRecord.RecordCaseData' not found.
+--------------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+C:\Himanshu\Test\Work\Source\Components\GMDBDetail\bin\Release\GMDBDetail.dll
+C:\Himanshu\Test\Work\Source\Components\GMDBDetail\bin\Release\GMDBDetail.pdb
+C:\Himanshu\Test\Work\Source\Components\GMDBDetail\bin\Release\GMConstants.dll
+C:\Himanshu\Test\Work\Source\Components\GMDBDetail\bin\Release\GMDBMap.dll
+C:\Himanshu\Test\Work\Source\Components\GMDBDetail\bin\Release\GMConstants.pdb
+C:\Himanshu\Test\Work\Source\Components\GMDBDetail\bin\Release\GMDBMap.pdb
+C:\Himanshu\Test\Work\Source\Components\GMDBDetail\obj\Release\GMDBDetail.csprojResolveAssemblyReference.cache
+C:\Himanshu\Test\Work\Source\Components\GMDBDetail\obj\Release\GMDBDetail.dll
+C:\Himanshu\Test\Work\Source\Components\GMDBDetail\obj\Release\GMDBDetail.pdb

@@ -1,0 +1,8 @@
+F:\Projects\Codebase\Source\Components\WSWAUtils\bin\WSWAUtils.dll
+F:\Projects\Codebase\Source\Components\WSWAUtils\bin\WSWAUtils.pdb
+F:\Projects\Codebase\Source\Components\WSWAUtils\bin\WSConstants.dll
+F:\Projects\Codebase\Source\Components\WSWAUtils\bin\WSUIDetail.dll
+F:\Projects\Codebase\Source\Components\WSWAUtils\bin\WSUtilities.dll
+F:\Projects\Codebase\Source\Components\WSWAUtils\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Codebase\Source\Components\WSWAUtils\obj\Debug\WSWAUtils.dll
+F:\Projects\Codebase\Source\Components\WSWAUtils\obj\Debug\WSWAUtils.pdb

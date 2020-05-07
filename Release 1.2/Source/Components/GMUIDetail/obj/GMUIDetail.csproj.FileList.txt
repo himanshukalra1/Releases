@@ -1,0 +1,7 @@
+bin\GMUIDetail.dll
+bin\GMUIDetail.pdb
+bin\GMConstants.dll
+bin\GMUtilities.dll
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\GMUIDetail.dll
+obj\Debug\GMUIDetail.pdb

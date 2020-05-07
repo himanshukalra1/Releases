@@ -1,0 +1,60 @@
+Log Entry : 7:30:05 PM
+Details : 
+Method 'System.Web.UI.ScriptManager.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'ASP.controls_pagetitle_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'System.Web.UI.WebControls.Label.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'System.Web.UI.UpdatePanel.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'System.Web.UI.UpdatePanel.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'System.Web.UI.WebControls.GridView.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'System.Web.UI.WebControls.Label.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'System.Web.UI.WebControls.Label.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.LevelRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.PleaRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'GMUIDetail.Entity.DCRecordCase.DispositionRead' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'System.Web.UI.WebControls.LinkButton.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
+Log Entry : 7:30:05 PM
+Details : 
+Method 'ASP.controls_button_ascx.Value' not found.
+--------------------------------------------------------------------------------
