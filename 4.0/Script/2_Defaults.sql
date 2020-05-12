@@ -1,3 +1,19 @@
+/* Data for table Permission */
+SET IDENTITY_INSERT Permission ON
+GO
+IF EXISTS(SELECT ID FROM Permission WHERE ID = 10)
+UPDATE Permission SET Name = 'Edit Interface', Value = 'EditInterface' WHERE ID = 10
+ELSE
+INSERT INTO Permission(ID, Name, Value) VALUES (10, 'Edit Interface', 'EditInterface')
+GO
+IF EXISTS(SELECT ID FROM Permission WHERE ID = 11)
+UPDATE Permission SET Name = 'Submit to Interface', Value = 'SubmitToInterface' WHERE ID = 11
+ELSE
+INSERT INTO Permission(ID, Name, Value) VALUES (11, 'Submit to Interface', 'SubmitToInterface')
+GO
+SET IDENTITY_INSERT Permission OFF
+GO
+
 
 /* Data for table Case_Type */
 SET IDENTITY_INSERT Case_Type ON
