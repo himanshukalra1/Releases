@@ -29,7 +29,7 @@
                                     Required="true" />
                                 <ctl:Text ID="txtCaseName" runat="server" Label="Case Name:" Required="false" Width="140" />
                                 <ctl:Text ID="txtPlaintiff" runat="server" Label="Plaintiff:" Required="false" Width="140" />
-                                <ctl:Text ID="txtDistrictCourt" runat="server" Label="Court:" Required="false" Width="140" TextMode="MultiLine"/>
+                                <ctl:Text ID="txtDistrictCourt" runat="server" Label="Court:" Required="false" Width="140" TextMode="MultiLine" />
                             </table>
                         </td>
                         <td valign="top">
@@ -143,8 +143,7 @@
                                                     <asp:Label ID="lblProbationType" runat="server" Text='<%# Bind("ProbationType") %>'></asp:Label>
                                                 </ItemTemplate>
                                                 <EditItemTemplate>
-                                                    <ctl:Text2 ID="txtProbationType" runat="server" Value='<%# Bind("ProbationType") %>'
-                                                        />
+                                                    <ctl:Text2 ID="txtProbationType" runat="server" Value='<%# Bind("ProbationType") %>' />
                                                 </EditItemTemplate>
                                             </asp:TemplateField>
                                             <asp:TemplateField ItemStyle-Width="48px" HeaderText="Arresting Agency">
@@ -152,7 +151,7 @@
                                                     <asp:Label ID="lblArrestingAgency" runat="server" Text='<%# Bind("ArrestingAgency") %>'></asp:Label>
                                                 </ItemTemplate>
                                                 <EditItemTemplate>
-                                                    <ctl:Text2 ID="txtArrestingAgency" runat="server" Value='<%# Bind("ArrestingAgency") %>' TextMode="MultiLine" Height="50"/>
+                                                    <ctl:Text2 ID="txtArrestingAgency" runat="server" Value='<%# Bind("ArrestingAgency") %>' TextMode="MultiLine" Height="50" />
                                                 </EditItemTemplate>
                                             </asp:TemplateField>
                                             <asp:TemplateField ItemStyle-Width="48px" HeaderText="Fine/Fee $">
@@ -160,17 +159,15 @@
                                                     <asp:Label ID="lblFileFee" runat="server" Text='<%# Bind("FileFee") %>'></asp:Label>
                                                 </ItemTemplate>
                                                 <EditItemTemplate>
-                                                    <ctl:Text2 ID="txtFileFee" runat="server" Value='<%# Bind("FileFee") %>' ValidationType="DecimalNumber"
-                                                        />
+                                                    <ctl:Text2 ID="txtFileFee" runat="server" Value='<%# Bind("FileFee") %>' ValidationType="DecimalNumber" />
                                                 </EditItemTemplate>
                                             </asp:TemplateField>
-                                             <asp:TemplateField ItemStyle-Width="48px" HeaderText="Restitution">
+                                            <asp:TemplateField ItemStyle-Width="48px" HeaderText="Restitution">
                                                 <ItemTemplate>
                                                     <asp:Label ID="lblRestitution" runat="server" Text='<%# Bind("Restitution") %>'></asp:Label>
                                                 </ItemTemplate>
                                                 <EditItemTemplate>
-                                                    <ctl:Text2 ID="txtRestitution" runat="server" Value='<%# Bind("Restitution") %>' ValidationType="DecimalNumber"
-                                                        />
+                                                    <ctl:Text2 ID="txtRestitution" runat="server" Value='<%# Bind("Restitution") %>' ValidationType="DecimalNumber" />
                                                 </EditItemTemplate>
                                             </asp:TemplateField>
                                             <asp:TemplateField ItemStyle-Width="48px" HeaderText="Jail Credit">
@@ -178,16 +175,24 @@
                                                     <asp:Label ID="lblJailCredit" runat="server" Text='<%# Bind("JailCredit") %>'></asp:Label>
                                                 </ItemTemplate>
                                                 <EditItemTemplate>
-                                                    <ctl:Text2 ID="txtJailCredit" runat="server" Value='<%# Bind("JailCredit") %>' TextMode="MultiLine" Height="50"/>
+                                                    <ctl:Text2 ID="txtJailCredit" runat="server" Value='<%# Bind("JailCredit") %>' TextMode="MultiLine" Height="50" />
                                                 </EditItemTemplate>
                                             </asp:TemplateField>
                                             <asp:TemplateField ItemStyle-Width="180px" HeaderText="Sentencing Detail" ItemStyle-HorizontalAlign="Left">
-                                                <ItemTemplate>                                                
-                                                <asp:Label ID="lblSentencingDetail" runat="server" Text='<%# Eval("SentencingDetail").ToString().Replace("\n","<br/>") %>'></asp:Label>
+                                                <ItemTemplate>
+                                                    <asp:Label ID="lblSentencingDetail" runat="server" Text='<%# Eval("SentencingDetail").ToString().Replace("\n","<br/>") %>'></asp:Label>
                                                 </ItemTemplate>
                                                 <EditItemTemplate>
                                                     <ctl:Text2 ID="txtSentencingDetail" runat="server" Value='<%# Eval("SentencingDetail") %>' TextMode="MultiLine"
-                                                        Width="180" Height="50"/>
+                                                        Width="180" Height="50" />
+                                                </EditItemTemplate>
+                                            </asp:TemplateField>
+                                            <asp:TemplateField ItemStyle-Width="180px" HeaderText="Sentencing Date">
+                                                <ItemTemplate>
+                                                    <asp:Label ID="lblSentencingDate" runat="server" Text='<%# Convert.ToDateTime(Eval("SentencingDate"))!= DateTime.MinValue?Convert.ToDateTime(Eval("SentencingDate")).ToShortDateString():"" %>'></asp:Label>
+                                                </ItemTemplate>
+                                                <EditItemTemplate>
+                                                    <ctl:Text2 ID="txtSentencingDate" runat="server" Value='<%# Eval("SentencingDate") %>' ValidationType="Date" Required="false" />
                                                 </EditItemTemplate>
                                             </asp:TemplateField>
                                             <asp:CommandField ShowEditButton="true" ItemStyle-Width="80px" />

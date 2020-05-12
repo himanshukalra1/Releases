@@ -30,10 +30,12 @@ function PageloanRecordPipeline(ctlid) {
     if (table) {
         for (var rowNum = 0; rowNum < table.rows.length; rowNum++) {
             if (rowNum > 0) {
-                str = "," + table.rows[rowNum].children[11].innerText.toUpperCase() + ",";
-
-                if (strRedCaseType.indexOf(str) > -1)
-                    table.rows[rowNum].children[11].className = "Error";
+                var ctl = table.rows[rowNum].children[11];
+                if (ctl) {
+                    str = "," + table.rows[rowNum].children[11].innerText.toUpperCase() + ",";
+                    if (strRedCaseType.indexOf(str) > -1)
+                        table.rows[rowNum].children[11].className = "Error";
+                }
             }
         }
     }
@@ -43,7 +45,7 @@ function showPopup(id, value) {
     var popup = document.getElementById(id);
     popup.style.display = 'block';
     var popup1 = document.getElementById('simplediv1');
-    popup1.innerHTML = value.toString();   
+    popup1.innerHTML = value.toString();
 }
 
 function hidePopup(id) {
