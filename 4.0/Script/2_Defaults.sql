@@ -18039,3 +18039,79 @@ GO
 SET IDENTITY_INSERT County OFF
 GO
 
+
+/* Data for table Disposition_Type */
+SET IDENTITY_INSERT Disposition_Type ON
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 1)
+UPDATE Disposition_Type SET Name = 'Warrant', Value = 'Warrant' WHERE ID = 1
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (1, 'Warrant', 'Warrant')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 2)
+UPDATE Disposition_Type SET Name = 'Conviction', Value = 'Conviction' WHERE ID = 2
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (2, 'Conviction', 'Conviction')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 3)
+UPDATE Disposition_Type SET Name = 'Found Guilty', Value = 'FoundGuilty' WHERE ID = 3
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (3, 'Found Guilty', 'FoundGuilty')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 4)
+UPDATE Disposition_Type SET Name = 'Dismissed', Value = 'Dismissed' WHERE ID = 4
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (4, 'Dismissed', 'Dismissed')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 5)
+UPDATE Disposition_Type SET Name = 'Deferred Adjudication', Value = 'DeferredAdjudication' WHERE ID = 5
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (5, 'Deferred Adjudication', 'DeferredAdjudication')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 6)
+UPDATE Disposition_Type SET Name = 'Diversion', Value = 'Diversion' WHERE ID = 6
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (6, 'Diversion', 'Diversion')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 7)
+UPDATE Disposition_Type SET Name = 'Dismissed Per Pc 1203', Value = 'DismissedPerPc1203' WHERE ID = 7
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (7, 'Dismissed Per Pc 1203', 'DismissedPerPc1203')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 8)
+UPDATE Disposition_Type SET Name = 'Pending', Value = 'Pending' WHERE ID = 8
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (8, 'Pending', 'Pending')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 9)
+UPDATE Disposition_Type SET Name = 'Bail Forfeited', Value = 'Bail Forfeited' WHERE ID = 9
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (9, 'Bail Forfeited', 'Bail Forfeited')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 10)
+UPDATE Disposition_Type SET Name = 'Deferred Entry of Judgment', Value = 'DeferredEntryofJudgment' WHERE ID = 10
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (10, 'Deferred Entry of Judgment', 'DeferredEntryofJudgment')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 11)
+UPDATE Disposition_Type SET Name = 'Prop 36 Programs', Value = 'Prop36Programs' WHERE ID = 11
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (11, 'Prop 36 Programs', 'Prop36Programs')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 12)
+UPDATE Disposition_Type SET Name = 'Others', Value = 'Others' WHERE ID = 12
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (12, 'Others', 'Others')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 13)
+UPDATE Disposition_Type SET Name = 'Extradicted/Fugitive', Value = 'ExtradictedFugitive' WHERE ID = 13
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (13, 'Extradicted/Fugitive', 'ExtradictedFugitive')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 14)
+UPDATE Disposition_Type SET Name = 'Nolled Prossed', Value = 'NolledProssed' WHERE ID = 14
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (14, 'Nolled Prossed', 'NolledProssed')
+GO
+SET IDENTITY_INSERT Disposition_Type OFF
+GO
