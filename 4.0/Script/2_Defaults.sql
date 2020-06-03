@@ -18115,3 +18115,40 @@ INSERT INTO Disposition_Type(ID, Name, Value) VALUES (14, 'Nolled Prossed', 'Nol
 GO
 SET IDENTITY_INSERT Disposition_Type OFF
 GO
+
+
+/* Data for table Action_Type */
+SET IDENTITY_INSERT Action_Type ON
+GO
+IF EXISTS(SELECT ID FROM Action_Type WHERE ID = 1)
+UPDATE Action_Type SET Name = 'Outsourced', Value = 'Outsourced' WHERE ID = 1
+ELSE
+INSERT INTO Action_Type(ID, Name, Value) VALUES (1, 'Outsourced', 'Outsourced')
+GO
+IF EXISTS(SELECT ID FROM Action_Type WHERE ID = 2)
+UPDATE Action_Type SET Name = 'Court', Value = 'Court' WHERE ID = 2
+ELSE
+INSERT INTO Action_Type(ID, Name, Value) VALUES (2, 'Court', 'Court')
+GO
+IF EXISTS(SELECT ID FROM Action_Type WHERE ID = 3)
+UPDATE Action_Type SET Name = 'Authorization', Value = 'Authorization' WHERE ID = 3
+ELSE
+INSERT INTO Action_Type(ID, Name, Value) VALUES (3, 'Authorization', 'Authorization')
+GO
+IF EXISTS(SELECT ID FROM Action_Type WHERE ID = 4)
+UPDATE Action_Type SET Name = 'DOB/Middle Name', Value = 'DOBMiddleName' WHERE ID = 4
+ELSE
+INSERT INTO Action_Type(ID, Name, Value) VALUES (4, 'DOB/Middle Name', 'DOBMiddleName')
+GO
+IF EXISTS(SELECT ID FROM Action_Type WHERE ID = 5)
+UPDATE Action_Type SET Name = 'Rush', Value = 'Rush' WHERE ID = 5
+ELSE
+INSERT INTO Action_Type(ID, Name, Value) VALUES (5, 'Rush', 'Rush')
+GO
+IF EXISTS(SELECT ID FROM Action_Type WHERE ID = 6)
+UPDATE Action_Type SET Name = 'ID VERIFICATION', Value = 'ID VERIFICATION' WHERE ID = 6
+ELSE
+INSERT INTO Action_Type(ID, Name, Value) VALUES (6, 'ID VERIFICATION', 'ID VERIFICATION')
+GO
+SET IDENTITY_INSERT Action_Type OFF
+GO
