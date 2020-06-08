@@ -42,6 +42,11 @@ UPDATE Record_Status_Type SET Name = 'Auto Clear', Value = 'AutoClear', SortOrde
 ELSE
 INSERT INTO Record_Status_Type(ID, Name, Value, SortOrder) VALUES (50, 'Auto Clear', 'AutoClear', 50)
 GO
+IF EXISTS(SELECT ID FROM Record_Status_Type WHERE ID = 51)
+UPDATE Record_Status_Type SET Name = 'Auto Not Pursued', Value = 'AutoNotPursued', SortOrder = 51 WHERE ID = 51
+ELSE
+INSERT INTO Record_Status_Type(ID, Name, Value, SortOrder) VALUES (51, 'Auto Not Pursued', 'AutoNotPursued', 51)
+GO
 SET IDENTITY_INSERT Record_Status_Type OFF
 GO
 
