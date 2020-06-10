@@ -7,7 +7,8 @@
 <%@ Register TagPrefix="ctl" TagName="PageTitle" Src="~/Controls/Pagetitle.ascx" %>
 <%@ Register TagPrefix="ctl" TagName="Text" Src="~/Controls/Text.ascx" %>
 <%@ Register TagPrefix="ctl" TagName="Text2" Src="~/Controls/Text2.ascx" %>
-<%@ Register TagPrefix="ctl" TagName="DDown" Src="~/Controls/Dropdown2.ascx" %>
+<%@ Register TagPrefix="ctl" TagName="DDown" Src="~/Controls/Dropdown.ascx" %>
+<%@ Register TagPrefix="ctl" TagName="DDown2" Src="~/Controls/Dropdown2.ascx" %>
 <%@ Register TagPrefix="ctl" TagName="Check" Src="~/Controls/Checkbox.ascx" %>
 <asp:Content ContentPlaceHolderID="cphMaster" ID="cnPage" runat="server">
     <asp:ScriptManager ID="smCaseRecord" runat="server" EnablePartialRendering="true">
@@ -76,6 +77,18 @@
                         </td>
                     </tr>
                     <tr>
+                        <td align="left">
+                           <table>
+                                <ctl:Text ID="txtStreetName" runat="server" Label="Street Name:" Width="140" />
+                                <ctl:Text ID="txtAddress2" runat="server" Label="Address2:" Width="140" />
+                                <ctl:Text ID="txtCity" runat="server" Label="City:" Width="140" />
+                                <ctl:DDown ID="ddlStateID" runat="server" Label="State:" Required="false"/>
+                                <ctl:Text ID="txtZipCode" runat="server" Label="Zip Code:" Width="140" />
+                            </table>
+                        </td>
+                    </tr>
+
+                    <tr>
                         <td colspan="4" align="left">
                             <asp:UpdatePanel ID="upAddCaseRecord" runat="server" UpdateMode="Conditional">
                                 <ContentTemplate>
@@ -109,32 +122,32 @@
                                             </asp:TemplateField>
                                             <asp:TemplateField ItemStyle-Width="48px" HeaderText="Level">
                                                 <ItemTemplate>
-                                                    <ctl:DDown ID="ddlLevelRead" runat="server" DataTextField="Name" DataValueField="ID"
+                                                    <ctl:DDown2 ID="ddlLevelRead" runat="server" DataTextField="Name" DataValueField="ID"
                                                         Enabled="false" DataSource='<%# Bind("DSLevelTypeID") %>' Value='<%# Bind("LevelTypeID") %>' />
                                                 </ItemTemplate>
                                                 <EditItemTemplate>
-                                                    <ctl:DDown ID="ddlLevel" runat="server" DataTextField="Name" DataValueField="ID" Required="true" ValidationMessage="Level" HasEmpty="true"
+                                                    <ctl:DDown2 ID="ddlLevel" runat="server" DataTextField="Name" DataValueField="ID" Required="true" ValidationMessage="Level" HasEmpty="true"
                                                         DataSource='<%# Bind("DSLevelTypeID") %>' Value='<%# Bind("LevelTypeID") %>' />
                                                 </EditItemTemplate>
                                             </asp:TemplateField>
                                             <asp:TemplateField ItemStyle-Width="48px" HeaderText="Plea">
                                                 <ItemTemplate>
-                                                    <ctl:DDown ID="ddlPleaRead" runat="server" DataTextField="Name" DataValueField="ID"
+                                                    <ctl:DDown2 ID="ddlPleaRead" runat="server" DataTextField="Name" DataValueField="ID"
                                                         Enabled="false" DataSource='<%# Bind("DSPleaTypeID") %>' Value='<%# Bind("PleaTypeID") %>' />
                                                 </ItemTemplate>
                                                 <EditItemTemplate>
-                                                    <ctl:DDown ID="ddlPlea" runat="server" DataTextField="Name" DataValueField="ID" Required="true" ValidationMessage="Plea" HasEmpty="true"
+                                                    <ctl:DDown2 ID="ddlPlea" runat="server" DataTextField="Name" DataValueField="ID" Required="true" ValidationMessage="Plea" HasEmpty="true"
                                                         DataSource='<%# Bind("DSPleaTypeID") %>' Value='<%# Bind("PleaTypeID") %>' />
                                                 </EditItemTemplate>
                                             </asp:TemplateField>
                                             <asp:TemplateField ItemStyle-Width="48px" HeaderText="Disposition">
                                                 <ItemTemplate>
-                                                    <ctl:DDown ID="ddlDispositionRead" runat="server" DataTextField="Name"
+                                                    <ctl:DDown2 ID="ddlDispositionRead" runat="server" DataTextField="Name"
                                                         DataValueField="ID" Enabled="false" DataSource='<%# Bind("DSDispositionTypeID") %>'
                                                         Value='<%# Bind("DispositionTypeID") %>' />
                                                 </ItemTemplate>
                                                 <EditItemTemplate>
-                                                    <ctl:DDown ID="ddlDisposition" runat="server" DataTextField="Name" DataValueField="ID" Required="true" ValidationMessage="Disposition" HasEmpty="true"
+                                                    <ctl:DDown2 ID="ddlDisposition" runat="server" DataTextField="Name" DataValueField="ID" Required="true" ValidationMessage="Disposition" HasEmpty="true"
                                                         DataSource='<%# Bind("DSDispositionTypeID") %>' Value='<%# Bind("DispositionTypeID") %>' />
                                                 </EditItemTemplate>
                                             </asp:TemplateField>
