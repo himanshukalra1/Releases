@@ -18,6 +18,11 @@ GO
 /* Data for table Case_Type */
 SET IDENTITY_INSERT Case_Type ON
 GO
+IF EXISTS(SELECT ID FROM Case_Type WHERE ID = 15)
+UPDATE Case_Type SET Name = 'FED CIVIL', Value = 'FEDCIVIL', IsCivil = 1 WHERE ID = 15
+ELSE
+INSERT INTO Case_Type(ID, Name, Value, IsCivil) VALUES (15, 'FED CIVIL', 'FEDCIVIL', 1)
+GO
 IF EXISTS(SELECT ID FROM Case_Type WHERE ID = 22)
 UPDATE Case_Type SET Name = 'BANKRUPTCY', Value = 'BNKRPT', IsCivil = 0 WHERE ID = 22
 ELSE
@@ -18044,7 +18049,6 @@ GO
 SET IDENTITY_INSERT County OFF
 GO
 
-
 /* Data for table Disposition_Type */
 SET IDENTITY_INSERT Disposition_Type ON
 GO
@@ -18117,6 +18121,16 @@ IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 14)
 UPDATE Disposition_Type SET Name = 'Nolled Prossed', Value = 'NolledProssed' WHERE ID = 14
 ELSE
 INSERT INTO Disposition_Type(ID, Name, Value) VALUES (14, 'Nolled Prossed', 'NolledProssed')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 15)
+UPDATE Disposition_Type SET Name = 'Transferred', Value = 'Transferred' WHERE ID = 15
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (15, 'Transferred', 'Transferred')
+GO
+IF EXISTS(SELECT ID FROM Disposition_Type WHERE ID = 16)
+UPDATE Disposition_Type SET Name = 'Case Violation', Value = 'CaseViolation' WHERE ID = 16
+ELSE
+INSERT INTO Disposition_Type(ID, Name, Value) VALUES (16, 'Case Violation', 'CaseViolation')
 GO
 SET IDENTITY_INSERT Disposition_Type OFF
 GO
