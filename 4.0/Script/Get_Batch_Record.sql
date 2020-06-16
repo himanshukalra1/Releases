@@ -55,7 +55,8 @@ BEGIN
 	FirstName,
 	MiddleName,
 	LastName,
-	StateID
+	StateID,
+	SpecialFee
 
 	FROM [Batch_Record] WITH(NOLOCK)
 	WHERE ID= @ID
@@ -98,7 +99,8 @@ BEGIN
 	FirstName,
 	MiddleName,
 	LastName,
-	StateID
+	StateID,
+	SpecialFee
 
 
 	FROM [Batch_Record] WITH(NOLOCK)
