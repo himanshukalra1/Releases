@@ -60,7 +60,7 @@
                                     ValidationType="DecimalNumber" />
                                 <ctl:Text ID="txtSpecialFee" runat="server" Label="Special Fee: $" Required="false" Width="200"
                                     ValidationType="DecimalNumber" />
-                                <ctl:Text ID="txtRISComments" runat="server" Label="RIS Remarks:" Required="false"
+                                <ctl:Text ID="txtRISComments" runat="server" Label="Client Notes:" Required="false"
                                     Width="200" TextMode="MultiLine" Height="70" />
                             </table>
                         </td>
