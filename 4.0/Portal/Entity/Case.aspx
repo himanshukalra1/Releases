@@ -31,6 +31,12 @@
                                 <ctl:Text ID="txtCaseName" runat="server" Label="Case Name:" Required="false" Width="140" />
                                 <ctl:Text ID="txtPlaintiff" runat="server" Label="Plaintiff:" Required="false" Width="140" />
                                 <ctl:Text ID="txtDistrictCourt" runat="server" Label="Court:" Required="false" Width="140" TextMode="MultiLine" />
+                                <br />
+                                <ctl:Text ID="txtStreetName" runat="server" Label="Street Name:" Width="140" />
+                                <ctl:Text ID="txtAddress2" runat="server" Label="Address2:" Width="140" />
+                                <ctl:Text ID="txtCity" runat="server" Label="City:" Width="140" />
+                                <ctl:DDown ID="ddlStateID" runat="server" Label="State:" Required="false" />
+                                <ctl:Text ID="txtZipCode" runat="server" Label="Zip Code:" Width="140" />
                             </table>
                         </td>
                         <td valign="top">
@@ -50,6 +56,9 @@
                                 <ctl:Text ID="txtDefendant" runat="server" Label="Defendant:" Required="false" Width="140" />
                                 <ctl:Text ID="txtStatusJudgment" runat="server" Label="Status/Judgment:" Required="false"
                                     Width="140" />
+                                <br />
+                                <ctl:Text ID="txtCaseComments" runat="server" Label="Comments:" Required="false" Enabled="true"
+                                    Width="250" TextMode="MultiLine" Height="80" />
                             </table>
                         </td>
                         <td valign="top">
@@ -76,17 +85,7 @@
                             </table>
                         </td>
                     </tr>
-                    <tr>
-                        <td align="left">
-                           <table>
-                                <ctl:Text ID="txtStreetName" runat="server" Label="Street Name:" Width="140" />
-                                <ctl:Text ID="txtAddress2" runat="server" Label="Address2:" Width="140" />
-                                <ctl:Text ID="txtCity" runat="server" Label="City:" Width="140" />
-                                <ctl:DDown ID="ddlStateID" runat="server" Label="State:" Required="false"/>
-                                <ctl:Text ID="txtZipCode" runat="server" Label="Zip Code:" Width="140" />
-                            </table>
-                        </td>
-                    </tr>
+
 
                     <tr>
                         <td colspan="4" align="left">

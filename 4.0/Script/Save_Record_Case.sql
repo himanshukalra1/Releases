@@ -41,7 +41,8 @@ Updates		:
 	@Address2 Varchar(200) = NULL,
 	@City Varchar(200) = NULL,
 	@StateId int = NULL,
-	@ZipCode Varchar(10) = NULL
+	@ZipCode Varchar(10) = NULL,
+	@CaseComments Varchar(5000) = NULL
 )
 AS
 SET NOCOUNT ON
@@ -79,7 +80,8 @@ INSERT [Record_Case] (	RecordID,
 	Address2,
 	City,
 	StateId,
-	ZipCode
+	ZipCode,
+	CaseComments
 )
 VALUES (
 	@RecordID,
@@ -105,7 +107,8 @@ VALUES (
 	@Address2,
 	@City,
 	@StateId,
-	@ZipCode
+	@ZipCode,
+	@CaseComments
 )
 SELECT @ID = @@IDENTITY
 END
@@ -132,7 +135,8 @@ UPDATE [Record_Case] WITH(UPDLOCK) SET
 	Address2 = @Address2,
 	City = @City,
 	StateId = @StateId,
-	ZipCode = @ZipCode
+	ZipCode = @ZipCode,
+	CaseComments = @CaseComments
 
 WHERE ID = @ID
 END
