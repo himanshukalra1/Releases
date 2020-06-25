@@ -18171,3 +18171,95 @@ INSERT INTO Action_Type(ID, Name, Value) VALUES (6, 'ID VERIFICATION', 'ID VERIF
 GO
 SET IDENTITY_INSERT Action_Type OFF
 GO
+
+
+/* Data for table Level_Type */
+SET IDENTITY_INSERT Level_Type ON
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 1)
+UPDATE Level_Type SET Name = 'Felony', Value = 'Felony', SortOrder = 1 WHERE ID = 1
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (1, 'Felony', 'Felony', 1)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 2)
+UPDATE Level_Type SET Name = 'Misdemeanor', Value = 'Misdemeanor', SortOrder = 3 WHERE ID = 2
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (2, 'Misdemeanor', 'Misdemeanor', 3)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 3)
+UPDATE Level_Type SET Name = 'Infraction', Value = 'Infraction', SortOrder = 5 WHERE ID = 3
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (3, 'Infraction', 'Infraction', 5)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 4)
+UPDATE Level_Type SET Name = 'Unclassified', Value = 'Unclassified', SortOrder = 6 WHERE ID = 4
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (4, 'Unclassified', 'Unclassified', 6)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 5)
+UPDATE Level_Type SET Name = 'FELONY REDUCED TO MISDEMEANOR', Value = 'FELONYAMENDED', SortOrder = 2 WHERE ID = 5
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (5, 'FELONY REDUCED TO MISDEMEANOR', 'FELONYAMENDED', 2)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 6)
+UPDATE Level_Type SET Name = 'MISDEMEANOR REDUCED TO INFRACTION', Value = 'MISEMEANORAMENDED', SortOrder = 4 WHERE ID = 6
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (6, 'MISDEMEANOR REDUCED TO INFRACTION', 'MISEMEANORAMENDED', 4)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 7)
+UPDATE Level_Type SET Name = 'CIVIL TRAFFIC', Value = 'CIVILTRAFFIC', SortOrder = 7 WHERE ID = 7
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (7, 'CIVIL TRAFFIC', 'CIVILTRAFFIC', 7)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 8)
+UPDATE Level_Type SET Name = 'CLASS 1 MISDEMEANOR', Value = 'CLASS1MISDEMEANOR', SortOrder = 8 WHERE ID = 8
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (8, 'CLASS 1 MISDEMEANOR', 'CLASS1MISDEMEANOR', 8)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 9)
+UPDATE Level_Type SET Name = 'CLASS 6 FELONY', Value = 'CLASS6FELONY', SortOrder = 9 WHERE ID = 9
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (9, 'CLASS 6 FELONY', 'CLASS6FELONY', 9)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 10)
+UPDATE Level_Type SET Name = 'CLASS 5 FELONY', Value = 'CLASS5FELONY', SortOrder = 10 WHERE ID = 10
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (10, 'CLASS 5 FELONY', 'CLASS5FELONY', 10)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 11)
+UPDATE Level_Type SET Name = 'TRAFFIC', Value = 'TRAFFIC', SortOrder = 11 WHERE ID = 11
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (11, 'TRAFFIC', 'TRAFFIC', 11)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 12)
+UPDATE Level_Type SET Name = 'GROSS MISDEMEANOR', Value = 'GROSSMISDEMEANOR', SortOrder = 12 WHERE ID = 12
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (12, 'GROSS MISDEMEANOR', 'GROSSMISDEMEANOR', 12)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 13)
+UPDATE Level_Type SET Name = 'CLASS A MISDEMEANOR', Value = 'CLASSAMISDEMEANOR', SortOrder = 13 WHERE ID = 13
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (13, 'CLASS A MISDEMEANOR', 'CLASSAMISDEMEANOR', 13)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 14)
+UPDATE Level_Type SET Name = 'CLASS B MISDEMEANOR', Value = 'CLASSBMISDEMEANOR', SortOrder = 14 WHERE ID = 14
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (14, 'CLASS B MISDEMEANOR', 'CLASSBMISDEMEANOR', 14)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 15)
+UPDATE Level_Type SET Name = 'CLASS C MISDEMEANOR', Value = 'CLASSCMISDEMEANOR', SortOrder = 15 WHERE ID = 15
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (15, 'CLASS C MISDEMEANOR', 'CLASSCMISDEMEANOR', 15)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 16)
+UPDATE Level_Type SET Name = 'GROSS MISDEMEANOR', Value = 'GROSSMISDEMEANOR', SortOrder = 16 WHERE ID = 16
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (16, 'GROSS MISDEMEANOR', 'GROSSMISDEMEANOR', 16)
+GO
+IF EXISTS(SELECT ID FROM Level_Type WHERE ID = 17)
+UPDATE Level_Type SET Name = 'Petty Offense', Value = 'PettyOffense', SortOrder = 17 WHERE ID = 17
+ELSE
+INSERT INTO Level_Type(ID, Name, Value, SortOrder) VALUES (17, 'Petty Offense', 'PettyOffense', 17)
+GO
+SET IDENTITY_INSERT Level_Type OFF
+GO
