@@ -111,7 +111,7 @@
                                     </asp:TemplateField>
                                     <asp:TemplateField HeaderText="Spl Remarks">
                                         <ItemTemplate>
-                                            <a href='javascript:showPopup("simplediv","<%# Eval("ClientSplRemarks")%>")' style='visibility: <%# Exists(Eval("ClientSplRemarks"))%>;'>
+                                            <a href='javascript:showPopup("simplediv","<%# Eval("ClientSplRemarks").ToString().Replace(Environment.NewLine, "<br />")%>")' style='visibility: <%# Exists(Eval("ClientSplRemarks"))%>;'>
                                                 Click Here</a>
                                         </ItemTemplate>
                                     </asp:TemplateField>
