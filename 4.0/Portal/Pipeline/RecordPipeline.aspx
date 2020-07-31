@@ -82,7 +82,7 @@
                                     <asp:BoundField DataField="RecordStatusName" HeaderText="Status" SortExpression="RecordStatusName" />
                                     <asp:BoundField DataField="StateName" HeaderText="State" SortExpression="StateName" />
                                     <asp:BoundField DataField="County" HeaderText="County" SortExpression="County" />
-                                    <asp:BoundField DataField="Name" HeaderText="Name" SortExpression="Name" />
+                                    <asp:BoundField DataField="Name" HeaderText="Name" SortExpression="B.Name" />
                                     <asp:BoundField DataField="DOB" HeaderText="DOB" SortExpression="DOB" DataFormatString="{0:MM/dd/yyyy}"
                                         HtmlEncode="false" />
                                     <asp:BoundField DataField="CaseTypeName" HeaderText="Type" SortExpression="CaseTypeName" />
