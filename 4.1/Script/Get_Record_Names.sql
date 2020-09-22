@@ -25,7 +25,8 @@ FirstName,
 MiddleName,
 LastName,
 IsCurrent,
-IsCommon
+IsCommon,
+UseInSearch
 	FROM [Record_Names] WITH(NOLOCK)
 	WHERE RecordID= @RecordID
 

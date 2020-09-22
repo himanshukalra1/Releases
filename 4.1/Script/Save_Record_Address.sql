@@ -20,7 +20,8 @@ Updates		:
 	@AddressState varchar(500)= null,
 	@ZipCode varchar(20)= null,
 	@CountryCode varchar(20)= null,
-	@IsCurrent bit= null
+	@IsCurrent bit= null,
+	@UseInSearch bit= null
 )
 AS
 SET NOCOUNT ON
@@ -37,7 +38,8 @@ City,
 AddressState,
 ZipCode,
 CountryCode,
-IsCurrent
+IsCurrent,
+UseInSearch
 
 )
 VALUES (
@@ -48,7 +50,8 @@ VALUES (
 	@AddressState,
 	@ZipCode,
 	@CountryCode,
-	@IsCurrent
+	@IsCurrent,
+	@UseInSearch
 
 )
 SELECT @ID = @@IDENTITY
@@ -63,7 +66,8 @@ UPDATE [Record_Address] WITH(UPDLOCK) SET
 	AddressState = @AddressState,
 	ZipCode = @ZipCode,
 	CountryCode = @CountryCode,
-	IsCurrent = @IsCurrent
+	IsCurrent = @IsCurrent,
+	UseInSearch = @UseInSearch
 
 WHERE ID = @ID
 END

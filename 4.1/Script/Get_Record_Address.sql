@@ -27,7 +27,8 @@ City,
 AddressState,
 ZipCode,
 CountryCode,
-IsCurrent
+IsCurrent,
+UseInSearch
 	FROM [Record_Address] WITH(NOLOCK)
 	WHERE RecordID= @RecordID
 

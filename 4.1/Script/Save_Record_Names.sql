@@ -18,7 +18,8 @@ Updates		:
 	@MiddleName varchar(2000) = null,
 	@LastName varchar(200) = null,
 	@IsCurrent bit = null,
-	@IsCommon bit= null
+	@IsCommon bit= null,
+	@UseInSearch bit= null
 )
 AS
 SET NOCOUNT ON
@@ -32,7 +33,8 @@ FirstName,
 MiddleName,
 LastName,
 IsCurrent,
-IsCommon
+IsCommon,
+UseInSearch
 
 )
 VALUES (
@@ -41,7 +43,8 @@ VALUES (
 	@MiddleName ,
 	@LastName ,
 	@IsCurrent ,
-	@IsCommon 
+	@IsCommon,
+	@UseInSearch 
 
 )
 SELECT @ID = @@IDENTITY
@@ -54,7 +57,8 @@ FirstName=@FirstName,
 MiddleName=@MiddleName,
 LastName=@LastName,
 IsCurrent=@IsCurrent,
-IsCommon=@IsCommon
+IsCommon=@IsCommon,
+UseInSearch = @UseInSearch
 
 WHERE ID = @ID
 END

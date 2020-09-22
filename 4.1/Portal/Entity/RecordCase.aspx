@@ -135,7 +135,7 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <asp:GridView ID="grvRecordNames" runat="server" ShowFooter="false" AutoGenerateColumns="false"
+                                        <asp:GridView ID="grvUIRecordNames" runat="server" ShowFooter="false" AutoGenerateColumns="false"
                                             HeaderStyle-CssClass="GridHeader" AlternatingRowStyle-CssClass="GridAltItem"
                                             >
                                             <Columns>
@@ -144,6 +144,7 @@
                                                 <asp:BoundField DataField="LastName" HeaderText="Last Name" />
                                                 <asp:BoundField DataField="IsCurrent" HeaderText="Is Current" />
                                                 <asp:BoundField DataField="IsCommon" HeaderText="Is Common" />
+                                                 <asp:BoundField DataField="UseInSearch" HeaderText="Use In Search" />
                                             </Columns>
                                         </asp:GridView>
                                     </td>
@@ -154,7 +155,7 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <asp:GridView ID="grvRecordAddress" runat="server" ShowFooter="false" AutoGenerateColumns="false"
+                                        <asp:GridView ID="grvUIRecordAddress" runat="server" ShowFooter="false" AutoGenerateColumns="false"
                                             HeaderStyle-CssClass="GridHeader" AlternatingRowStyle-CssClass="GridAltItem"
                                             >
                                             <Columns>
@@ -164,6 +165,7 @@
                                                 <asp:BoundField DataField="AddressState" HeaderText="State" />
                                                 <asp:BoundField DataField="ZipCode" HeaderText="Zip Code" />
                                                  <asp:BoundField DataField="IsCurrent" HeaderText="Is Current" />
+                                                <asp:BoundField DataField="UseInSearch" HeaderText="Use In Search" />
                                             </Columns>
                                         </asp:GridView>
                                     </td>
@@ -174,7 +176,7 @@
                                 </tr>
                                 <tr>
                                     <td>
-                                        <asp:GridView ID="grvRecordWorkLocations" runat="server" ShowFooter="false" AutoGenerateColumns="false"
+                                        <asp:GridView ID="grvUIRecordWorkLocations" runat="server" ShowFooter="false" AutoGenerateColumns="false"
                                             HeaderStyle-CssClass="GridHeader" AlternatingRowStyle-CssClass="GridAltItem"
                                             >
                                             <Columns>
