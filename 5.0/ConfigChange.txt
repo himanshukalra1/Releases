@@ -1,0 +1,63 @@
+<add key="PreCheckCompanyId" value="100" />
+ <add key="PreCheckUserId" value="2" />
+
+
+
+  <location path="Services">
+    <system.web>
+      <authorization>
+        <allow users="*"/>
+      </authorization>
+    </system.web>
+  </location>
+
+
+ <httpProtocol>
+      <customHeaders>
+        <add name="Access-Control-Allow-Origin" value="*" />
+        <add name="Access-Control-Allow-Methods" value="GET" />
+        <add name="Access-Control-Allow-Headers" value="Content-Type, Accept" />
+      </customHeaders>
+    </httpProtocol>
+
+
+<system.serviceModel >
+    <services>
+      <service
+        name="GMPortal.Services.PreCheck" behaviorConfiguration="ServiceBehaviourPreCheck" >
+        <endpoint address="" binding="customBinding" bindingConfiguration="XmlMapper" behaviorConfiguration="rest"
+                  contract="GMPortal.Services.IPreCheck">
+        </endpoint>
+      </service>
+    </services>
+    
+    <behaviors>
+      <serviceBehaviors>
+        <behavior name="ServiceBehaviourPreCheck">
+          <serviceMetadata httpGetEnabled="true"/>
+          <serviceDebug includeExceptionDetailInFaults="true"/>
+        </behavior>
+      </serviceBehaviors>
+      <endpointBehaviors>
+        <behavior name="rest">
+          <webHttp/>
+        </behavior>
+      </endpointBehaviors>
+    </behaviors>
+    <bindings>
+      <webHttpBinding>
+        <binding name="webHttpBindingPreCheck"
+                 crossDomainScriptAccessEnabled="true" >
+          <security mode="None" />
+        </binding>
+      </webHttpBinding>
+      
+      <customBinding>
+        <binding name="XmlMapper">
+          <webMessageEncoding webContentTypeMapperType="GMPortal.Services.XmlContentTypeMapper, GMPortal" />
+          <httpTransport manualAddressing="true" />
+        </binding>
+      </customBinding>
+    </bindings>
+    <serviceHostingEnvironment multipleSiteBindingsEnabled="true" aspNetCompatibilityEnabled="true" />
+  </system.serviceModel >
